@@ -49,3 +49,6 @@ _data
 _scripts
 _jupyter
 locale
+
+# Local config for direnv
+.envrc
